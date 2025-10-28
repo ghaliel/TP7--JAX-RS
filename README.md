@@ -172,18 +172,42 @@ Console H2 :
 ## 📁 Structure du projet
 TP7-JAX-RS/
 ├── src/
+
+
 │   ├── main/
+
+
 │   │   ├── java/org/example/tp7jaxrs/
+
+
 │   │   │   ├── Tp7JaxRsApplication.java
+
+
 │   │   │   ├── config/MyConfig.java
+
+
 │   │   │   ├── controllers/CompteRestJaxRSAPI.java
+
+
 │   │   │   ├── entities/{Compte.java, TypeCompte.java}
+
+
 │   │   │   └── repositories/CompteRepository.java
+
+
 │   │   └── resources/application.properties
+
+
 │   └── test/java/org/example/tp7jaxrs/
+
+
 ├── pom.xml
+
+
 └── README.md
-🧩 Description rapide
+
+
+## 🧩 Description rapide
 
 Tp7JaxRsApplication.java : Point d’entrée Spring Boot
 
