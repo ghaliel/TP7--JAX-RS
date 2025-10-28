@@ -170,7 +170,10 @@ Console H2 :
 
 
 ## 📁 Structure du projet
+
 TP7-JAX-RS/
+
+
 ├── src/
 
 
@@ -219,7 +222,9 @@ Compte.java / TypeCompte.java : Entités JPA
 
 CompteRepository.java : Interface CRUD Spring Data JPA
 
-👨‍💻 Auteur
+## 👨‍💻 Auteur
+
+
 Ghali EL ASRI-ghaliel
 
 
